@@ -11,7 +11,7 @@ collections:
 email: wilson0205@gmail.com
 author: Wilson Tjandra
 description: Machine Learning University.
-baseurl: ''
+baseurl: 
 url: http://ml.university
 date_format: "%b %-d, %Y"
 google_verification: 
